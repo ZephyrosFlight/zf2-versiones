@@ -1,0 +1,5 @@
+version=1.15
+commit=1641b24
+fecha=2026-11-27T19:25Z
+paquete=zf2-arm64-1641b24.tar.gz
+sha256=cbf6b4d66f05aa528a328c91d10286902babdc454aac6db8c1b189086947b325
